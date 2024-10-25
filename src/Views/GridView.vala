@@ -83,7 +83,7 @@ public class Slingshot.Widgets.Grid : Gtk.Grid {
 
     construct {
         page.rows = 3;
-        page.columns = 5;
+        page.columns = 3;
 
         paginator = new Hdy.Carousel ();
         paginator.expand = true;
