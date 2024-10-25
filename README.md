@@ -1,7 +1,7 @@
 # Applications Menu
 [![Translation status](https://l10n.elementary.io/widgets/wingpanel/-/applications-menu/svg-badge.svg)](https://l10n.elementary.io/engage/wingpanel/?utm_source=widget)
 
-Lightweight and stylish app launcher.
+Lightweight and stylish app launcher for diamOS.
 
 ![Screenshot](data/screenshot.png?raw=true)
 
